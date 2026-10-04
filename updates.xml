@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="mbiehjpcjnckjbpegnahbjgeddpmeigj">
     <updatecheck
-      codebase="https://quietindex.github.io/Extensionshost/extension.crx"
+      codebase="https://quietindex.github.io/Extensionhost/extension.crx"
       version="11.12.93" />
   </app>
 </gupdate>
